@@ -25,8 +25,10 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 If you have any questions about this Privacy Policy, please contact us at photocinecopilot@gmail.com.  
   
   
+**TERMS OF USE**  
+The terms of use are written below in french :   
   
-**I. CONDITIONS GÉNÉRALES D'UTILISATION**  
+**CONDITIONS GÉNÉRALES D'UTILISATION**  
 
 1. CHAMPS D'APPLICATION  
 Les présentes conditions générales d'utilisation (ci-après les "CGU") s'appliquent à toute visite ou utilisation de la Plateforme et de ses informations par un internaute (ci-après "Utilisateur").
