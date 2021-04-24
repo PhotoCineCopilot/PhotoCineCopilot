@@ -43,11 +43,11 @@ Les informations fournies sur l'Application ne sont pas destinées à être dist
 Tous les utilisateurs mineurs dans la juridiction dans laquelle ils résident (généralement âgés de moins de 18 ans) doivent avoir l'autorisation et être directement supervisés par leur parent ou tuteur pour utiliser l'application. Si vous êtes mineur, vous devez demander à votre parent ou tuteur de lire et d'accepter ces conditions générales d'utilisation avant d'utiliser l'application.
 
 2. PLATEFORME  
-a. Accès et navigation
+a. Accès et navigation  
 Nous prenons toutes les mesures raisonnables et nécessaires pour assurer le bon fonctionnement, la sécurité et l'accessibilité de notre Plateforme. Toutefois, nous ne pouvons pas offrir de garantie d'opérabilité absolue et il faut dès lors considérer nos actions comme étant couvertes par une obligation de moyen.
 Toute utilisation de la Plateforme se fait toujours aux propres risques de l'Utilisateur. Ainsi, nous ne sommes pas responsables des dommages pouvant résulter de possibles dysfonctionnements, interruptions, défauts ou encore d'éléments nuisibles présents sur la Plateforme.
 Nous nous réservons le droit de restreindre l'accès à la Plateforme ou d'interrompre son fonctionnement à tout moment, sans obligation de notification préalable.
-b. Contenu
+b. Contenu  
 Farid Karioty détermine en grande partie le contenu de la Plateforme et prend grand soin des informations présentes sur celle-ci. Nous prenons toutes les mesures possibles pour maintenir notre Plateforme aussi complète, précise et à jour que possible, même lorsque les informations présentes sur celle-ci sont fournies par des tiers. Nous nous réservons le droit de modifier, compléter ou supprimer à tout moment la Plateforme et son contenu, sans que sa responsabilité ne puisse être engagée.
 Farid Karioty ne peut pas offrir de garantie absolue concernant la qualité de l'information présente sur la Plateforme. Il est donc possible que cette information ne soit pas toujours complète, exacte, suffisamment précise ou à jour. Par conséquent, Farid Karioty ne pourra pas être tenue responsable des dommages, directs ou indirects, que l'Utilisateur subirait de par l'information présente sur la Plateforme.
 Si certains contenus de la Plateforme sont en violation avec la loi ou les droits des tiers, ou sont contraires à la morale, nous vous demandons de nous en informer le plus rapidement possible par mail afin que nous puissions prendre des mesures appropriées.
