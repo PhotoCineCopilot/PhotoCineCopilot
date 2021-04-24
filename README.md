@@ -116,46 +116,50 @@ Afin de résoudre une réclamation concernant l'application ou pour recevoir de 
 **CONDITIONS GÉNÉRALES DE VENTE**  
 Dernière mise à jour : 24 avril 2021  
 
-**Champ d'application**  
+**CHAMP D'APPLICATION**  
 
 Les présentes conditions générales de vente (ci-après les "CGV") définissent les droits et obligations réciproques en cas d'achat de produits ou de services sur la Plateforme par un Utilisateur (ci-après "Client").  
 Les CGV expriment l'intégralité des obligations des parties. Le Client est réputé les accepter sans réserve, faute de quoi sa commande ne sera pas validée.  
 Il peut exceptionnellement être dérogé aux dispositions des CGV dans la mesure où ces dérogations ont fait l'objet d'un accord écrit. Ces dérogations peuvent consister en la modification, l'ajout ou la suppression des clauses auxquelles elles se rapportent et n'ont aucune incidence sur l'application des autres dispositions des CGV.  
 Farid Karioty (ci-après Vendeur) se réserve le droit de modifier ponctuellement les CGV. Les modifications seront applicables dès leur mise en ligne pour tout achat postérieur à cette date.  
 
-**Description du service**  
+**DESCRIPTION DU SERVICE**  
 
 Photo Cine Copilot offre un ensemble de données utiles à la préparation de prises de vues photo/vidéo ou d'un vol de drone (UAS).  
  
 Photo Cine Copilot propose aussi un module de préparation à l'examen théorique de télépilote France. Les cours et questions proposées correspondent aux programmes théoriques de l’examen télépilote en France. 
 
-**Propriété intellectuelle**  
+**PROPRIÉTÉ INTELLECTUELLE**  
 
-Les cours et commentaires présents dans l'application sont, sauf mention contraire, la propriété du Vendeur. Les explications de cours et commentaires d’éclaircissements présents dans l'application ne peuvent pas être reproduits sans autorisation.Le Client reste le seul responsable de sa préparation pour l’examen théorique. Le Vendeur ne pourra en aucun cas être tenu responsable d’un échec du Client lors de sa présentation à l’examen.  
+Les cours et commentaires présents dans l'application sont, sauf mention contraire, la propriété du Vendeur. Les explications de cours et commentaires d’éclaircissements présents dans l'application ne peuvent pas être reproduits sans autorisation. 
 
-**Prix**  
+**PRIX**  
+
 Le Vendeur se réserve le droit de modifier ses prix à tout moment en les publiant en ligne.  
 Seuls s'appliqueront les tarifs indiqués et les taxes en vigueur au moment de la commande, sous réserve de disponibilité à cette date.  
 Les prix sont indiqués dans la devise de votre pays (toutes taxes comprises).  
 
-**Droit de rétractation**  
+**DROIT DE RÉTRACTATION**  
+
 Si le Client est un consommateur, il renonce par la présente à son droit de rétractation afin d'être fourni dans les plus brefs délai suivant la conclusion du contrat.  
 
-**Responsabilités**  
+**RESPONSABILITÉS**  
 
 Photo Cine Copilot n'est en aucun cas responsable de dommages, pertes de données, perte de revenus, ou tout autre dommage résultant de votre accès et utilisation de Photo Cine Copilot.  
 
+Le Client reste le seul responsable de sa préparation pour l’examen théorique de drone français. Le Vendeur ne pourra en aucun cas être tenu responsable d’un échec du Client lors de sa présentation à l’examen.  
+
 L'application Photo Cine Copilot peut proposer des liens vers d’autres sources internet. Le Vendeur ne pourrait toutefois être tenu pour responsable quant au contenu disponible sur ou à partir de ces sites ou sources externes.  
 
-**Indépendance des clauses**  
+**INDÉPENDANCE DES CLAUSES**  
 
 L'illégalité ou la nullité totale ou partielle d'une disposition des présentes CGV n'aura aucun impact sur la validité et l'application des autres dispositions. Le Vendeur se réserve le droit de remplacer la disposition illégale ou nulle par une autre disposition valable et de portée similaire.  
 
-**Acceptation et engagement**  
+**ACCEPTATION ET ENGAGEMENT**  
 
 En acceptant les présentes CGV, le Client s’engage à ne faire aucun usage commercial du contenu de Photo Cine Copilot. Cette application et toutes les informations qu'elle contient sont destinées à un usage strictement privé.  
 
-**Loi applicable et juridiction compétente**  
+**LOI APPLICABLE ET JURIDICTION COMPÉTENTE**  
 
 Les présentes CGV sont régies par le droit français.  
 En cas de différend et à défaut d'accord amiable, le litige sera porté devant les tribunaux compétent de l'arrondissement judiciaire du siège social du Vendeur.  
