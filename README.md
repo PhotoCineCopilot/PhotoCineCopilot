@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-**Privacy Policy**  
-Last updated: April 23t 2021
+**PRIVACY POLICY**  
+Last updated: April 24th 2021
 
 PhotoCineCopilot ("us", "we", or "our") operates PhotoCineCopilot (the "App"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the App.
 
@@ -23,12 +23,14 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 **Contact Us**  
 If you have any questions about this Privacy Policy, please contact us at photocinecopilot@gmail.com.  
-  
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
   
 **TERMS OF USE**  
 The terms of use are written below in french :   
   
 **CONDITIONS GÉNÉRALES D'UTILISATION**  
+Dernière mise à jour : 24 avril 2021
 
 1. CHAMPS D'APPLICATION  
 Les présentes conditions générales d'utilisation (ci-après les "CGU") s'appliquent à toute visite ou utilisation de la Plateforme et de ses informations par un internaute (ci-après "Utilisateur").
@@ -109,10 +111,10 @@ Ces conditions d'utilisation et toutes les politiques ou règles de fonctionneme
 17. NOUS CONTACTER  
 Afin de résoudre une réclamation concernant l'application ou pour recevoir de plus amples informations concernant l'utilisation de l'application, veuillez nous contacter à: photocinecopilot@gmail.com.  
   
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////    
   
-  
-**Conditions Générales de Vente**  
-Dernière mise à jour : 23 avril 2021
+**CONDITIONS GÉNÉRALES DE VENTE**  
+Dernière mise à jour : 24 avril 2021
 
 **Champ d'application**  
 
